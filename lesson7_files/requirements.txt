@@ -1,8 +1,17 @@
-pandas>=1.5.0
-numpy>=1.21.0
-matplotlib>=3.5.0
-seaborn>=0.11.0
-plotly>=5.0.0
+# E-commerce Analytics Streamlit Dashboard Requirements
+
+# Data manipulation and analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Streamlit dashboard
 streamlit>=1.28.0
+
+# Visualization libraries
+plotly>=5.15.0
+matplotlib>=3.7.0
+
+# Original notebook support (optional)
 jupyter>=1.0.0
 ipykernel>=6.0.0
+notebook>=6.4.0
